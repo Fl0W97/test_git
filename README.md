@@ -15,3 +15,6 @@ Working on my own project using one workspace, multiple branches:
 
 TERMINAL:
 git init
+test
+test
+test new branch
